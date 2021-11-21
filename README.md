@@ -3,4 +3,4 @@ A website built using streamlit that classifies iris flowers , giving user 3 dif
 ## Demo
 Live link : https://streamlit-iris.herokuapp.com/
 
-
+<img src="./img.png"><br />
